@@ -1,0 +1,96 @@
+body{
+  background-image: url(background.jpg) ;
+  background-size:cover;
+}
+
+.MainContainer{
+  background-color:rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  height: 640px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+  border-radius: 15px;
+}
+
+#Logo {
+  width: 220px;
+  padding-left: 400px;
+  padding-top: 70px;
+  padding-right: 400px;
+}
+
+#Title1 {
+  color: #00ff00;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+   margin-top: auto;
+ }
+
+.row {
+  background-color: #00ff00;
+  height: 40px;
+  width: 800px;
+  margin:auto;
+}
+
+.row-submit {
+  width: 400px;
+  padding-left: 250px;
+}
+
+.inputz {
+  display: inline-block;
+  margin-top:9.3px;
+}
+
+main {
+  height: 400px;
+  width:800px;
+  margin: auto;
+}
+
+.main1 {
+  width: 400px;
+  padding-left: 0;
+  height: 100px;
+  padding-top: 0px;
+}
+
+
+.testomain1{
+  color: white;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+.sottotestomain1 {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 10;
+}
+
+.bar1 {
+  background-color:#FFA500;
+  width: 400px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+.bar2 {
+  background-color:#32cd32;
+  width: 600px;
+  height: 25px;
+  border-radius: 10px;
+
+}
+
+.bar3 {
+  background-color:#a32638;
+  width: 200px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+ 
